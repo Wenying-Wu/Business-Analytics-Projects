@@ -2,7 +2,7 @@
 **By:** Wenying Wu
 
 
-### [Service Quality Problem Faces by EASI and Related Data Assistance]
+### [Service Quality Problem Faces by EASI and Related Data Assistance](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Service%20Quality%20Problem%20Faces%20by%20EASI%20and%20Related%20Data%20Assistance.md)
 
 > **Date:** Aug 22, 2020
 
@@ -10,7 +10,7 @@
 
 
 
-### [Business Challenges of Health Co.]
+### [Business Challenges of Health Co.](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Business%20Challenges%20of%20Health%20Co.mp4)
 > **Date:** Oct 31, 2020
 
 > Use the dataset and apply business analytics techniques to it so as to be able to generate
