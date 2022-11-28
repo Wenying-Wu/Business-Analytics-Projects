@@ -10,7 +10,7 @@
 
 
 
-### [Business Challenges of Health Co.](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Business%20Challenges%20of%20Health%20Co.mp4)
+### [Business Challenges of Health Co.](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Business%20Challenges%20of%20Health%20Co.pdf)
 > **Date:** Oct 31, 2020
 
 > Use the dataset and apply business analytics techniques to it so as to be able to generate
