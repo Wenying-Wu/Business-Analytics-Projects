@@ -13,11 +13,13 @@
 ### [Business Challenges of Health Co.](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Business%20Challenges%20of%20Health%20Co.pdf)
 > **Date:** Oct 31, 2020
 
+> **Video presentation:** [here](https://github.com/Wenying-Wu/Business-Analytics-Projects#:~:text=Business%20Challenges%20of%20Health%20Co.mp4)
+
 > Use the dataset and apply business analytics techniques to it so as to be able to generate
 a comprehensive understanding of the relationship between variables in response to the identified
 business problem. Present these insights in a clear and effective manner.
 
-### [Pricing Strategy in Pricing Simulation - Universal Rental Car]()
+### [Pricing Strategy in Pricing Simulation - Universal Rental Car](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Pricing%20Strategy%20in%20Pricing%20Simulation%20-%20Universal%20car%20rental.pdf)
 
 > **Date:** Sep 30, 2020
 
