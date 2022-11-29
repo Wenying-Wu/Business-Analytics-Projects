@@ -17,6 +17,21 @@
 a comprehensive understanding of the relationship between variables in response to the identified
 business problem. Present these insights in a clear and effective manner.
 
+### [Pricing Strategy in Pricing Simulation - Universal Rental Car]()
+
+> **Date:** Sep 30, 2020
+
+> **Overview:**
+a report comprising an analysis of a case about market equilibrium and government policy intervention making use of comparative statics to investigate the impact of government policy.
+
+
+> **Simulation:**
+At a Florida rental car agency - Universal Car Rental, I assume the role of a district manager responsible for setting prices for rental cars across three Florida cities: Miami, Orlando, and Tampa. Over 12 simulated months, I analyzed price sensitivity between leisure and business travelers and consider strategies that maximize rentals across weekdays and weekends in each city. Demand for rental cars can vary depending on the month and whether the location is more popular with business or leisure travelers. Unrented cars have associated holding costs while running out of cars is lost opportunity for profit. The district manager can make periodic inventory adjustments among the locations to match anticipated demand. The market for rental cars in Florida is intensely competitive and students must also consider the likely competitive response to their pricing decisions. Ultimately, the district manager must analyze the economic, seasonal, and competitive forces of the rental car market and develop a pricing strategy to maximize the cumulative profit for the firm. The district manager benefit from running the simulation multiple times with increasing complexity. 
+
+
+
+
+
 
 ### Useful Material:
 Albright, S. Christian and Winston, Wayne L. (2019). Business analytics: data analysis and decision making, Cengage.
