@@ -1,6 +1,6 @@
 # Business Analytics Projects
 
-### [Service Quality Problem Faces by EASI and Related Data Assistance](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Service%20Quality%20Problem%20Faces%20by%20EASI%20and%20Related%20Data%20Assistance.md)
+### [Service Quality Problem Faces by EASI and Related Data Assistance](https://github.com/wenyingw/Business-Analytics-Projects/blob/main/Service%20Quality%20Problem%20Faces%20by%20EASI%20and%20Related%20Data%20Assistance.md)
 
 > **Date:** Aug 22, 2020
 
@@ -8,16 +8,16 @@
 
 
 
-### [Business Challenges of Health Co.](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Business%20Challenges%20of%20Health%20Co.pdf)
+### [Business Challenges of Health Co.](https://github.com/wenyingw/Business-Analytics-Projects/blob/main/Business%20Challenges%20of%20Health%20Co.pdf)
 > **Date:** Oct 31, 2020
 
-> **Video presentation:** [here](https://github.com/Wenying-Wu/Business-Analytics-Projects#:~:text=Business%20Challenges%20of%20Health%20Co.mp4)
+> **Video presentation:** [here](https://github.com/wenyingw/Business-Analytics-Projects#:~:text=Business%20Challenges%20of%20Health%20Co.mp4)
 
 > Use the dataset and apply business analytics techniques to it so as to be able to generate
 a comprehensive understanding of the relationship between variables in response to the identified
 business problem. Present these insights in a clear and effective manner.
 
-### [Pricing Strategy in Pricing Simulation - Universal Rental Car](https://github.com/Wenying-Wu/Business-Analytics-Projects/blob/main/Pricing%20Strategy%20in%20Pricing%20Simulation%20-%20Universal%20car%20rental.pdf)
+### [Pricing Strategy in Pricing Simulation - Universal Rental Car](https://github.com/wenyingw/Business-Analytics-Projects/blob/main/Pricing%20Strategy%20in%20Pricing%20Simulation%20-%20Universal%20car%20rental.pdf)
 
 > **Date:** Sep 30, 2020
 
